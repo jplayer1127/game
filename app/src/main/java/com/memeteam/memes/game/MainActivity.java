@@ -1,4 +1,4 @@
-package com.example.jordan.game;
+package com.memeteam.memes.game;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

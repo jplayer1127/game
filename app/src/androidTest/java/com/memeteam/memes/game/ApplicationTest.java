@@ -1,4 +1,4 @@
-package com.example.jordan.game;
+package com.memeteam.memes.game;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
